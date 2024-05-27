@@ -1,7 +1,7 @@
 
 
 # MEEPCITY FE
- by synolope
+ by me
 
 ## Changelog
 added krnl support
